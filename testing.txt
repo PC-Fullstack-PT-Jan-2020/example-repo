@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Only!!!!
+=======
+This is a test!!!
+>>>>>>> master
